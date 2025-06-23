@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "title": "2017 Toyota Corolla",
+    "price": "$6,900",
+    "vin":"2T1BURHE9HC951879",
+    "mileage":"218049",
+    "description": "Runs great, clean title, 2 owners, 1 accident. 1.8L 4 cylinder SMPI. Transmission is under 50k miles. Rear view camera and Bluetooth.",
+    "images": [
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/cover.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4051.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4050.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4049.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4048.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4047.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4046.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4045.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4044.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4043.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4042.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4040.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4039.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4038.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/IMG_4036.png"
+    ],
+    "image1": "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/cover.png"
+  },
+  {
+    "id": "2",
+    "title": "2002 International 4300 SBA",
+    "price": "$8,900",
+    "vin":"1HTMMAAM22h506692",
+    "mileage":"478254",
+    "description": "Engine is running well. Check engine lights and ABS are on. Brakes are working. No AC.  Box needs some repairs. Tires should be replaced. 24' box. 12.5' clearance. 7.6L International DT466 6-Cylinder Diesel",
+    "images": [
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/cover.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4108.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4107.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4108.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4107.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4106.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4105.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4104.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4103.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4101.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4100.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4097.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_41110.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4111.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/IMG_4113.png"
+    ],
+    "image1": "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/cover.png"
+  },
+  {
+    "id": "3",
+    "title": "2019 Volkswagen Golf Sportwagen",
+    "price": "$11,000",
+    "vin":"3VWY57AU6KM512972",
+    "mileage":"92742",
+    "description": "Runs great, clean title, 2 owners, no accidents. 1.4L 4 cylinder. Rear view camera and Apple CarPlay.",
+    "images": [
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/cover.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_3997.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_3999.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_3999.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4001.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4002.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4003.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4004.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4005.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4006.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4007.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4009.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4010.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4012.png",
+      "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/IMG_4013.png"
+    ],
+    "image1": "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/cover.png"
+  }
+]
