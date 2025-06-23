@@ -7,7 +7,7 @@ import Vehicle from './pages/Vehicle'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Router>
+    <Router basename='/pm-react'>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/vehicle/:id" element={<Vehicle />} />
