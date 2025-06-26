@@ -5,57 +5,86 @@
       {
         "@context": "https://schema.org",
         "@graph": [
-          {
-            "@type": "Product",
-            "name": "2019 Volkswagen Golf SportWagen S",
-            "brand": { "@type": "Brand", "name": "Volkswagen" },
-            "mileage": "92,742 miles",
-            "vehicleEngine": "1.4L I4 DI Gasoline",
-            "vehicleTransmission": "Automatic",
-            "color": "Grey",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "USD",
-              "price": 11000,
-              "availability": "https://schema.org/InStock"
-                      },
-            "image": "https://lh6.googleusercontent.com/uedSMI6UJl3JPrPnmZfAtl7Qw3SCVffGZYPLEYMPI7CUqBbn6LhWDLuoD6Dp9bXleZcrEBgbJIA-ZPU1MbKuYfhktSBYi5GOr6IGWFjBRiTMcwNULIZtfKh4sEcBzSWzRSa2w3HqLPBgEVE5DsYI0DD5FMEBJ1iFRmXC69pibcmSx3nOuiWWZg=w1280",
-            "description": "Runs great, clean title, 2 owners, no accidents. 1.4L 4 cylinder. Rear view camera and Apple CarPlay."
+        {
+          "@type": "Car",
+          "name": "2019 Volkswagen Golf SportWagen S",
+          "model":"Golf SportWagen",
+          "vehicleModelDate":"2019",
+          "itemCondition":"UsedCondition",
+          "brand": { "@type": "Brand", "name": "Volkswagen" },
+          "mileageFromOdometer": {
+              "@type":"QuantitativeValue",
+              "value":"92742",
+              "unitCode":"SMI"
           },
-          {
-            "@type": "Product",
-            "name": "2002 International 4300",
-            "brand": {"@type": "Brand","name": "International"},
-            "mileage": "478,254",
-            "vehicleEngine": "7.6L International DT466 6-Cylinder Diesel",
-            "vehicleTransmission": "Automatic",
-            "color": "White",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "USD",
-              "price": 8900,
-              "availability": "https://schema.org/InStock"
-                      },
-            "image": "https://lh5.googleusercontent.com/-tXzFKl_Z6x0aatSb4T7x70SvZcd3iAVJNcF3kBOyO52mEIJw0sBYoqPCjvchQiYZWS7Vv1K34CoWmX_4l6TWljd_UFdZwjhArvhdvFNTXNt8tPYYJ50-ypHS2vsndAhv7TMrRYdZJdhqu0qistbnJAyRLL_hDJ_QhtOGvgdm5tqVymlA7GXTg=w1280",
-            "description": "Engine is running well. Check engine lights and ABS are on. Brakes are working. No AC.  Box needs some repairs. Tires should be replaced. 24' box. 12.5' clearance."
+          "vehicleEngine": {
+            "@type":"EngineSpecification",
+            "name":"1.4L I4 DI"
           },
-          {
-            "@type": "Product",
-            "name": "2017 Toyota Corolla",
-            "brand": { "@type": "Brand", "name": "Toyota" },
-            "mileage": "218,049 miles",
-            "vehicleEngine": "1.8L I4 SMPI Gasoline",
-            "vehicleTransmission": "Automatic",
-            "color": "Red",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "USD",
-              "price": 6900,
-              "availability": "https://schema.org/InStock"
-                      },
-            "image": "https://lh3.googleusercontent.com/9ZO2sGZJdVhdlPDO228SvGz6dPaPeSu828D7Rd-r0gcJeUDUPKv3nWwSyZnWz6WDBbymtyrvPDPHDZEFAiGvHV-AbWfnEcHMlPyI6YAfgGUyGgGFKrQMox5uRjgdC2Z5NifE7_0LcVL9cm_1b5wRWsSILa3XM3OMHR5q0GONVnud37sjWMzDQw=w1280",
-            "description": "Runs great, clean title, 2 owners, 1 accident. 1.4L 4 cylinder. Transmission is under 50k miles. Rear view camera and Bluetooth."
-          }
+          "vehicleTransmission": "Automatic",
+          "vehicleIdentificationNumber":"3VWY57AU6KM512972",
+          "offers": {
+            "@type": "Offer",
+            "priceCurrency": "USD",
+            "price": 11000,
+            "url": "https://jpdelgad0.github.io/pm-react/vehicle/3",
+            "availability":"https://schema.org/InStock"
+                    },
+          "image": "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2019-volkswagen-golf-grey-972/cover.png"
+        },
+        {
+          "@type": "Car",
+          "name": "2002 International 4300 SBA",
+          "model":"4300 SBA",
+          "vehicleModelDate":"2002",
+          "itemCondition":"UsedCondition",
+          "brand": {"@type": "Brand","name": "International"},
+          "mileageFromOdometer": {
+            "@type":"QuantitativeValue",
+            "value":"478254",
+            "unitCode":"SMI"
+          },
+          "vehicleEngine": {
+            "@type":"EngineSpecification",
+            "name":"7.6L International DT466 6-Cylinder Diesel"
+          },
+          "vehicleTransmission": "Automatic",
+          "vehicleIdentificationNumber":"1HTMMAAM22h506692",
+          "offers": {
+            "@type": "Offer",
+            "priceCurrency": "USD",
+            "price": "8900",
+            "url": "https://jpdelgad0.github.io/pm-react/vehicle/2",
+            "availability":"https://schema.org/InStock"
+                    },
+          "image": "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2002-international-4300-692/cover.png"},
+        {
+          "@type": "Car",
+          "name": "2017 Toyota Corolla LE",
+          "model":"Corolla LE",
+          "vehicleModelDate":"2017",
+          "itemCondition":"UsedCondition",
+          "brand": { "@type": "Brand", "name": "Toyota" },
+          "mileageFromOdometer":{
+            "@type":"QuantitativeValue",
+            "value":"218049",
+            "unitCode":"SMI"
+          },
+          "vehicleEngine": {
+            "@type":"EngineSpecification",
+            "name":"1.8L I4 SMPI Gasoline"
+          },
+          "vehicleTransmission": "Automatic",
+          "vehicleIdentificationNumber":"2T1BURHE9HC951879",
+          "offers": {
+            "@type": "Offer",
+            "priceCurrency": "USD",
+            "price": "6900",
+            "url": "https://jpdelgad0.github.io/pm-react/vehicle/1",
+            "availability":"https://schema.org/InStock"
+                    },
+          "image": "https://raw.githubusercontent.com/jpdelgad0/vehicle-json/main/images/2017-toyota-corolla-red-879/cover.png"
+        }
         ]
       }
     </script>
